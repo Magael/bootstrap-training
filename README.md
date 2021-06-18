@@ -11,3 +11,7 @@ The mission
 This challenge will have you play with Bootstrap, specifically its grid system.
 
 Date:15/06/2021
+
+Pas fini!!!!
+
+https://magael.github.io/bootstrap-training/bootstrap.html
