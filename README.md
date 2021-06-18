@@ -11,6 +11,7 @@ The mission
 This challenge will have you play with Bootstrap, specifically its grid system.
 
 Date:15/06/2021
+For: WebDev formation at BeCode
 
 Pas fini!!!!
 
