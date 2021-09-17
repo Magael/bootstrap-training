@@ -10,7 +10,8 @@ At the end of this challenge you should be able to:
 
 * to place elements using Bootstrap
 
-###The mission
+### The mission
+
 This challenge will have you play with Bootstrap, specifically its grid system.
 
 Date:15/06/2021
